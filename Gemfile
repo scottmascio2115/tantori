@@ -32,6 +32,7 @@ gem 'responders', '~> 2.0'
 gem 'bootstrap-sass', '~> 3.3.1.0'
 gem 'sass-rails', '~> 5.0.1'
 gem "font-awesome-rails"
+gem "passenger"
 
 
 group :development, :test do
