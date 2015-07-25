@@ -1,0 +1,49 @@
+.navbar-brand{
+  font-family: 'Amatic SC', cursive;
+}
+
+.navbar-default .navbar-brand{
+  font-size: 48px;
+}
+
+.navbar-default .navbar-nav > li > a{
+  font-weight: 400;
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+}
+
+#segment-one{
+  height: 600px;
+  background: url(asset-path('seg_one.jpg')) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#segment-two{
+  margin-bottom: 50px;
+}
+
+.image-container{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#footer{
+  background: black;
+  height: 50px;
+}
+
+#social-media-container{
+  height: 50px;
+}
+
+.fa{
+  color: #fff;
+  margin-right: 20px;
+  margin-top: 10px;
+}
