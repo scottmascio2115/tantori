@@ -24,7 +24,7 @@
 }
 
 #segment-two{
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 .image-container{
@@ -34,6 +34,10 @@
 }
 
 #footer{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
   background: black;
   height: 50px;
 }
@@ -46,4 +50,31 @@
   color: #fff;
   margin-right: 20px;
   margin-top: 10px;
+}
+
+#about-container{
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.team-icon{
+  border-radius: 25px;
+}
+
+#contact-container{
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+#shop-container{
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.elephant-icon{
+  border-radius: 25px;
+}
+
+#navbar-container{
+  margin-left: 50px;
 }
